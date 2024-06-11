@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 ## 📈 GitHub Stats
 
-![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashbhalla&show_icons=true&theme=radical)
 
 ## 🤝 Let's Collaborate!
 
