@@ -5,7 +5,8 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 ## 🌐 Connect with Me
 
 - LinkedIn: [Yash Bhalla](https://www.linkedin.com/in/yashbhalla99)
-- Email: [yash.bhalla@ufl.edu](mailto:your-email@example.com)
+- Email: [yash.bhalla@ufl.edu](mailto:yash.bhalla@ufl.edu)
+- Portfolio: [My Portfolio](https://sites.google.com/view/yashbhalla/home)
 
 ## 🛠️ Skills & Technologies
 
@@ -16,27 +17,18 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 ## 🔭 Current Projects
 
-- **Project 1**: Description of your current project with a link to the repository.
-- **Project 2**: Description of another ongoing project with a link to the repository.
+- **Personal Budgeting Application**: I designed and implemented a secure MySQL database using ASP.NET Core and Entity Framework Core to manage user accounts, income, expenses, budgets, and financial goals, with encrypted financial data and user authentication. I developed a frontend with Angular for data visualization and real-time budget alerts, and set up CI/CD pipelines with GitHub Actions for automated deployment. Utilizing Docker and Kubernetes, I ensured scalable deployment, efficiently managing 500 daily active users.
+  
+- **Analysis of USA Road Accidents**: I led the development of a web application using JavaScript and Java to analyze road accident data from 2016-2023, utilizing a dataset of 7 million records to identify regions with high accident rates. Additionally, I conducted detailed analysis of accident datasets using Python and MySQL to create visualizations of state-wise trends in accident density, traffic severity, weather safety index, average roadblock duration, and accident-prone factors.
 
 ## 🌱 Learning & Development
 
 - Currently exploring GoLang and AI/ML.
 - Deepening my knowledge in backend engineering and database management.
 
-## 🏆 Achievements
-
-- **Certification**: Name of the certification and the certifying organization.
-- **Award**: Description of an award or recognition you have received.
-
 ## 📈 GitHub Stats
 
 ![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-
-## 📝 Latest Blog Posts
-
-- [Blog Post 1](https://your-blog-link.com) - Brief description of the blog post.
-- [Blog Post 2](https://your-blog-link.com) - Brief description of the blog post.
 
 ## 🤝 Let's Collaborate!
 
