@@ -1,4 +1,4 @@
-## Hello, I'm Yash Bhalla! 👋
+# 👋 Hello, I'm Yash Bhalla! 
 
 Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in creating impactful solutions and continuously learning new technologies. Here’s a bit more about me:
 
