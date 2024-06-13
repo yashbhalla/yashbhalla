@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 ## 🛠️ Skills & Technologies
 
-- **Languages**: C#, GoLang, Java, JavaScript, Python, MySQL
+- **Languages**: C, C++, C#, GoLang, Java, JavaScript, Python, MySQL
 - **Frameworks & Technologies**: .Net, Azure, Eclipse, Jupyter Notebook, NX Open, Oracle DBMS, Visual Studio, VS Code, WinForms
 - **Version Control & Collaboration**: Agile, CI/CD, Confluence, Docker, Git, GitHub, JIRA, Kanban, Kubernetes, SDLC 
 - **Operating Systems**: Windows, MacOS, Linux
