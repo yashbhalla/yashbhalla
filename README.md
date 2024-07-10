@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 ## 🌱 Learning & Development
 
 - Currently exploring GoLang and AI/ML.
-- Deepening my knowledge in backend engineering and devops.
+- Deepening my knowledge in backend and devops engineering.
 
 ## 📈 GitHub Stats
 
