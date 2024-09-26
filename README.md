@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 ## 🔭 Current Projects
 
-- [**Personal Budgeting Application**:](https://github.com/yashbhalla/PersonalBudgetingApp) I designed and implemented a secure MySQL database using ASP.NET Core and Entity Framework Core to manage user accounts, income, expenses, budgets, and financial goals, with encrypted financial data and user authentication. I developed a frontend with Angular for data visualization and real-time budget alerts, and set up CI/CD pipelines with GitHub Actions for automated deployment. Utilizing Docker and Kubernetes, I ensured scalable deployment, efficiently managing 500 daily active users.
+- [**Personal Finance Tracker**:](https://github.com/yashbhalla/PersonalBudgetingApp) I designed and implemented a secure MySQL database using ASP.NET Core and Entity Framework Core to manage user accounts, income, expenses, budgets, and financial goals, with encrypted financial data and user authentication. I developed a frontend with Angular for data visualization and real-time budget alerts, and set up CI/CD pipelines with GitHub Actions for automated deployment. Utilizing Docker and Kubernetes, I ensured scalable deployment, efficiently managing 500 daily active users.
 
 - [**Lucas Square Pyramid using Pony**:](https://github.com/yashbhalla/LucasSquarePyramid) I experimented with Pony Lang to build a parallelized solution for the Lucas Square Pyramid, leveraging its actor model for efficient concurrency and optimized performance by tuning the workload chunk size per worker.  This project helped me explore Pony's capabilities in managing concurrent tasks with minimal overhead.
   
