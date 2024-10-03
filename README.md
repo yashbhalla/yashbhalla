@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 - [Portfolio](https://sites.google.com/view/yashbhalla/home)
 - [LinkedIn](https://www.linkedin.com/in/yashbhalla99)
-- [Resume](https://drive.google.com/file/d/1qybYZ3hXKQ8bwVajcsdYLZF2kOVGojVo/view?usp=sharing)
+- [Resume](https://drive.google.com/file/d/1pTBJUCCpKeaiVcDKR_7qBnfO_qmCfW7B/view?usp=sharing)
 - [Email-ID](mailto:yash.bhalla@ufl.edu)
 
 ## 🛠️ Skills & Technologies
