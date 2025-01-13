@@ -5,20 +5,26 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 ## 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/yashbhalla99)
-- [Resume](https://drive.google.com/file/d/1286RoS6iUrjbbv6QoajPCS0zpZh-1Ms3/view?usp=share_link)
+- [Resume](https://drive.google.com/file/d/1gzPFngLB-zSWo9a9NfuAtRp06br-PFbs/view?usp=share_link)
 - [Portfolio](https://sites.google.com/view/yashbhalla/home)
 - [Email-ID](mailto:yash.bhalla@ufl.edu)
 
 ## 🛠️ Skills & Technologies
 
-- **Languages**: C, C++, C#, Go, Java, JavaScript, MySQL, Pony, Python
-- **Frameworks & Technologies**: .Net, Azure, Eclipse, Jupyter Notebook, NX Open, Oracle DBMS, Visual Studio, VS Code, WinForms
-- **Version Control & Collaboration**: Agile, CI/CD, Confluence, Docker, Git, GitHub, JIRA, Kanban, Kubernetes, SDLC 
+- **Programming Languages**: C, C++, C#, Go, Java, JavaScript, Pony, Python
+- **Databases**: MySQL, Oracle DBMS, SQL
+- **Cloud Technologies**: AWS, Azure, Docker, Kubernetes
+- **Frameworks & Technologies**: .NET, NX Open, React, WinForms
+- **Version Control & Collaboration**: Agile, CI/CD, Confluence, Git, GitHub, JIRA, Kanban, Scrum, SDLC 
 - **Operating Systems**: Windows, MacOS, Linux
 
 ## 🔭 Current Projects
 
 - [**Personal Finance Tracker**:](https://github.com/yashbhalla/PersonalBudgetingApp) A cross-platform desktop app built with .NET MAUI and .NET Core. Features include income/expense tracking, budgeting, and financial reporting. Implements secure user authentication and SQLite database management. Achieved 40% improvement in data security and 90% user satisfaction during testing. Integrates RESTful APIs for seamless data access across devices. Future plans include AI-driven financial insights.
+
+- [**Reddit Clone**:](https://github.com/yashbhalla/RedditClone_Go) This project implements a Reddit-like simulation using Go, demonstrating a scalable and efficient system for managing online communities and discussions. The application leverages Go's concurrency features, the actor model (using Proto Actor), and HTTP handling capabilities.
+
+- [**P2P Chord Protocol Implementation**:](https://github.com/yashbhalla/P2P) The Chord protocol is designed to efficiently locate nodes responsible for storing a particular data item in a distributed system. This implementation uses consistent hashing to assign keys to nodes and provides a scalable solution for peer-to-peer systems.
 
 - [**Lucas Square Pyramid using Pony**:](https://github.com/yashbhalla/LucasSquarePyramid) I experimented with Pony Lang to build a parallelized solution for the Lucas Square Pyramid, leveraging its actor model for efficient concurrency and optimized performance by tuning the workload chunk size per worker.  This project helped me explore Pony's capabilities in managing concurrent tasks with minimal overhead.
   
