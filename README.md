@@ -32,7 +32,8 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 ## 🌱 Learning & Development
 
-- Currently exploring Go & Pony.
+- Building good habits via [LeetCode](https://github.com/yashbhalla/myLeetCode).
+- Currently exploring REST APIs, Docker, SQLite.
 - Deepening my knowledge in Backend and DevOps Engineering.
 
 ## 📈 GitHub Stats
