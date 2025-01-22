@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 ## 🔭 Current Projects
 
-- [**Personal Finance Tracker**:](https://github.com/yashbhalla/PersonalBudgetingApp) A cross-platform desktop app built with .NET MAUI and .NET Core. Features include income/expense tracking, budgeting, and financial reporting. Implements secure user authentication and SQLite database management. Achieved 40% improvement in data security and 90% user satisfaction during testing. Integrates RESTful APIs for seamless data access across devices. Future plans include AI-driven financial insights.
+- [**ShelfSwap: Book Trading and Sharing Platform**:](https://github.com/yashbhalla/ShelfSwap) A RESTful web application built with C# and ASP.NET Core, enabling users to trade or lend books seamlessly. Features include user authentication, book management, and request tracking, with optional Angular frontend integration.
 
 - [**Reddit Clone**:](https://github.com/yashbhalla/RedditClone_Go) This project implements a Reddit-like simulation using Go, demonstrating a scalable and efficient system for managing online communities and discussions. The application leverages Go's concurrency features, the actor model (using Proto Actor), and HTTP handling capabilities.
 
