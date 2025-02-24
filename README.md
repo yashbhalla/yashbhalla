@@ -11,11 +11,11 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 ## 🛠️ Skills & Technologies
 
-- **Programming Languages**: C, C++, C#, Go, Java, JavaScript, Pony, Python
-- **Databases**: MySQL, Oracle DBMS, SQL
-- **Cloud Technologies**: AWS, Azure, Docker, Kubernetes
-- **Frameworks & Technologies**: .NET, NX Open, React, WinForms
-- **Version Control & Collaboration**: Agile, CI/CD, Confluence, Git, GitHub, JIRA, Kanban, Scrum, SDLC 
+- **Programming Languages**: C, C++, C#, Go, Java, JavaScript, Python, TypeScript
+- **Databases**: PostgreSQL, MySQL, MongoDB, NoSQL, Oracle DBMS, SQL
+- **Cloud Technologies & DevOps**: AWS (EC2, S3, Lambda, RDS), Azure, Docker, Google Cloud Platform, Jenkins, Kubernetes
+- **Frameworks & Technologies**: .NET, Spring Boot, REST APIs, Microservices, Kafka, WinForms, NX Open, React, Angular
+- **Development Tools**: Agile, Confluence, CI/CD, Git, GitHub, Jira, Kanban, Postman, Scrum, SDLC
 - **Operating Systems**: Windows, MacOS, Linux
 
 ## 🔭 Current Projects
