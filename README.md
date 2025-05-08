@@ -11,12 +11,13 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 ## 🛠️ Skills & Technologies
 
-- **Programming Languages**: C, C++, C#, Go, Java, JavaScript, Python, TypeScript
+- **Programming Languages**: C, C++, C#, Go, Java, Python, TypeScript, JavaScript (ES6+)
+- **Frontend Technologies**: Angular, React, HTML, CSS
+- **Backend & APIs**: .NET, Spring Boot, RESTful APIs, Microservices, Kafka, WPF, WinForms, gRPC, GraphQL
 - **Databases**: PostgreSQL, MySQL, MongoDB, NoSQL, Oracle DBMS, SQL
-- **Cloud Technologies & DevOps**: AWS (EC2, S3, Lambda, RDS), Azure, Docker, Google Cloud Platform, Jenkins, Kubernetes
-- **Frameworks & Technologies**: .NET, Spring Boot, REST APIs, Microservices, Kafka, WinForms, NX Open, React, Angular
-- **Development Tools**: Agile, Confluence, CI/CD, Git, GitHub, Jira, Kanban, Postman, Scrum, SDLC
-- **Operating Systems**: Windows, MacOS, Linux
+- **Cloud & DevOps**: AWS, Azure, Google Cloud (GCP), Docker, Kubernetes, Terraform, Jenkins, GitHub Actions, CI/CD
+- **Development Tools**: Git, Bitbucket, Jira, Confluence, DevOps, Agile, Scrum, SDLC
+- **Operating Systems**: Linux, macOS, Windows
 
 ## 🔭 Current Projects
 
