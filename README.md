@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 ## 🔭 Current Projects
 
-- [**ShelfSwap: Book Trading and Sharing Platform**:](https://github.com/yashbhalla/ShelfSwap) A RESTful web application built with C# and ASP.NET Core, enabling users to trade or lend books seamlessly. Features include user authentication, book management, and request tracking, with optional Angular frontend integration.
+- [**F1 Telemetry Strategy Simulator**:](https://github.com/yashbhalla/F1-Telemetry-Strategy-Simulator/) F1 Telemetry Strategy Simulator is an interactive race strategy and telemetry analysis tool that blends real Formula 1 data with advanced simulation models. It helps analyze driver performance, model tire degradation, simulate weather and safety car events, and optimize pit stop strategies—all through a modern Streamlit dashboard.
 
 - [**Reddit Clone**:](https://github.com/yashbhalla/RedditClone_Go) This project implements a Reddit-like simulation using Go, demonstrating a scalable and efficient system for managing online communities and discussions. The application leverages Go's concurrency features, the actor model (using Proto Actor), and HTTP handling capabilities.
 
