@@ -1,23 +1,22 @@
 # 👋 Hello, I'm Yash Bhalla! 
 
-Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in creating impactful solutions and continuously learning new technologies. Here’s a bit more about me:
+Welcome to my GitHub profile! I'm a passionate software engineer with a keen interest in creating impactful solutions and continuously learning new technologies. Here’s a bit more about me:
 
 ## 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/yashbhalla99)
-- [Resume](https://drive.google.com/file/d/1CFIBLR5DkmTTJ1CKTCfbhBHi-Bfki_TP/view?usp=sharing)
-- [Portfolio](https://sites.google.com/view/yashbhalla/home)
+- [Resume](https://drive.google.com/file/d/1YxDkW2DqyyJ04Jyz_XfooOUfNgagXp8r/view?usp=share_link)
 - [Email-ID](mailto:bhallayash@outlook.com)
 
 ## 🛠️ Skills & Technologies
 
-- **Programming Languages**: C, C++, C#, Go, Java, Python, TypeScript, JavaScript (ES6+)
+- **Programming Languages**: C#, Python, Java, Go, C/C++, TypeScript, JavaScript (ES6+)
 - **Frontend Technologies**: Angular, React, HTML, CSS
-- **Backend & APIs**: .NET, Spring Boot, RESTful APIs, Microservices, Kafka, WPF, WinForms, gRPC, GraphQL
-- **Databases**: PostgreSQL, MySQL, MongoDB, NoSQL, Oracle DBMS, SQL
-- **Cloud & DevOps**: AWS, Azure, Google Cloud (GCP), Docker, Kubernetes, Terraform, Jenkins, GitHub Actions, CI/CD
-- **Development Tools**: Git, Bitbucket, Jira, Confluence, DevOps, Agile, Scrum, SDLC
-- **Operating Systems**: Linux, macOS, Windows
+- **Frameworks & APIs**: .NET, Spring Boot, React, Angular, RESTful APIs, gRPC, GraphQL, Microservices, Kafka, WPF, WinForms
+- **Databases**: PostgreSQL, MySQL, MongoDB, Oracle DB, NoSQL, SQL
+- **Cloud & DevOps**: AWS, Azure, Docker, Kubernetes, Ansible, Terraform, Jenkins, GitHub Actions
+- **GenAI & AI-Assisted Development**: GitHub Copilot, Cursor, ChatGPT, Claude, Gemini
+- **Tools & Environments**: Linux, Git, Bitbucket, Jira, Confluence, Agile/Scrum, SDLC, CI/CD
 
 ## 🔭 Current Projects
 
@@ -25,17 +24,16 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 - [**Reddit Clone**:](https://github.com/yashbhalla/RedditClone_Go) This project implements a Reddit-like simulation using Go, demonstrating a scalable and efficient system for managing online communities and discussions. The application leverages Go's concurrency features, the actor model (using Proto Actor), and HTTP handling capabilities.
 
+- [**Analysis of USA Road Accidents**:](https://github.com/yashbhalla/Analysis-of-USA-Road-Accidents) I led the development of a web application using JavaScript and Java to analyze road accident data from 2016-2023, utilizing a dataset of 7 million records to identify regions with high accident rates. Additionally, I conducted detailed analysis of accident datasets using Python and MySQL to create visualizations of state-wise trends in accident density, traffic severity, weather safety index, average roadblock duration, and accident-prone factors.
+
 - [**P2P Chord Protocol Implementation**:](https://github.com/yashbhalla/P2P) The Chord protocol is designed to efficiently locate nodes responsible for storing a particular data item in a distributed system. This implementation uses consistent hashing to assign keys to nodes and provides a scalable solution for peer-to-peer systems.
 
 - [**Lucas Square Pyramid using Pony**:](https://github.com/yashbhalla/LucasSquarePyramid) I experimented with Pony Lang to build a parallelized solution for the Lucas Square Pyramid, leveraging its actor model for efficient concurrency and optimized performance by tuning the workload chunk size per worker.  This project helped me explore Pony's capabilities in managing concurrent tasks with minimal overhead.
-  
-- [**Analysis of USA Road Accidents**:](https://github.com/yashbhalla/Analysis-of-USA-Road-Accidents) I led the development of a web application using JavaScript and Java to analyze road accident data from 2016-2023, utilizing a dataset of 7 million records to identify regions with high accident rates. Additionally, I conducted detailed analysis of accident datasets using Python and MySQL to create visualizations of state-wise trends in accident density, traffic severity, weather safety index, average roadblock duration, and accident-prone factors.
 
 ## 🌱 Learning & Development
 
-- Building good habits via [LeetCode](https://github.com/yashbhalla/myLeetCode).
-- Currently exploring REST APIs, Docker, SQLite.
-- Deepening my knowledge in Backend and DevOps Engineering.
+- Building good habits via LC and System Design.
+- Deepening my knowledge in Backend Software Development and DevOps Engineering.
 
 ## 📈 GitHub Stats
 
