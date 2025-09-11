@@ -11,7 +11,6 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a keen int
 ## 🛠️ Skills & Technologies
 
 - **Programming Languages**: C#, Python, Java, Go, C/C++, TypeScript, JavaScript (ES6+)
-- **Frontend Technologies**: Angular, React, HTML, CSS
 - **Frameworks & APIs**: .NET, Spring Boot, React, Angular, RESTful APIs, gRPC, GraphQL, Microservices, Kafka, WPF, WinForms
 - **Databases**: PostgreSQL, MySQL, MongoDB, Oracle DB, NoSQL, SQL
 - **Cloud & DevOps**: AWS, Azure, Docker, Kubernetes, Ansible, Terraform, Jenkins, GitHub Actions
