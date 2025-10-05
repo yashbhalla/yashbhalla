@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a keen int
 ## 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/yashbhalla99)
-- [Resume](https://drive.google.com/file/d/1YxDkW2DqyyJ04Jyz_XfooOUfNgagXp8r/view?usp=share_link)
+- [Resume](https://drive.google.com/file/d/1K4glFjYYQFbazqmBf2I-8e6W7_W3PlGh/view?usp=share_link)
 - [Email-ID](mailto:bhallayash@outlook.com)
 
 ## 🛠️ Skills & Technologies
